@@ -1,0 +1,31 @@
+# build output and packages (built by script or CI, never committed)
+build/
+dist/
+packed/
+*.zip
+*.7z
+
+# binaries and game files never belong here
+*.dll
+*.exe
+*.asi
+*.archive
+*.pak
+*.pdb
+
+# logs, local state, caches
+*.log
+logs/
+state/
+__pycache__/
+*.pyc
+.env
+*.local.*
+
+# editor and OS files
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
