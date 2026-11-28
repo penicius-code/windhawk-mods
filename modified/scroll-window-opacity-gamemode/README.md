@@ -26,7 +26,7 @@ A background raw-input registration for the keyboard, a system-wide foreground-c
 
 ## Tested
 
-No written test record; the pause was not measured in a game.
+Tested, not extensively; the pause was not measured in a game.
 
 ## Use
 

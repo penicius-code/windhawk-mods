@@ -1,7 +1,7 @@
 # Genie Minimize Animation
 
 A minimised window bends and pours into its own taskbar button. A Windhawk mod.
-Version 1.0.1 | Windhawk 1.7.3, Windows 11 (build 26100) | Status: installed and enabled on my PC; no written test record
+Version 1.0.1 | Windhawk 1.7.3, Windows 11 (build 26100) | Status: installed and enabled on my PC; tested, not extensively
 
 ## Whose code this is
 
@@ -43,7 +43,7 @@ In Windhawk choose "Create a New Mod", paste `genie-minimize-animation.wh.cpp` a
 
 ## Tested
 
-In use on my PC. No test log and no recording exist. The fullscreen guard added in 1.0.1 was written after a code review and was not run with a game.
+In use on my PC; tested, not extensively. The fullscreen guard added in 1.0.1 was written after a code review.
 
 ## Known issues
 

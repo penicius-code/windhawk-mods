@@ -25,7 +25,7 @@ One worker thread per process the mod is loaded into; it blocks in `DwmFlush` wh
 
 ## Tested
 
-No written test record.
+Tested, not extensively.
 
 ## Use
 

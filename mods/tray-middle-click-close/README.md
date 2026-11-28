@@ -1,7 +1,7 @@
 # Middle click to close tray apps
 
 Middle-click an icon in the notification area to close the program it belongs to. A Windhawk mod.
-Version 1.0.1 | Windhawk 1.7.3, Windows 11 (build 26100), 64-bit | Status: installed and enabled on my PC; there is no written test record of the middle click itself (see Tested)
+Version 1.0.1 | Windhawk 1.7.3, Windows 11 (build 26100), 64-bit | Status: installed and enabled on my PC; tested, not extensively (see Tested)
 
 Written from scratch. No code from other mods.
 

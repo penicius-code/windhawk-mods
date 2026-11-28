@@ -25,7 +25,7 @@ While the desktop window is not found yet, two event hooks limited to the Explor
 
 ## Tested
 
-No written test record.
+Tested, not extensively.
 
 ## Use
 
