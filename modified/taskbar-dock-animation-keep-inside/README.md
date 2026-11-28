@@ -24,7 +24,7 @@ None beyond the extra geometry calculation while icons animate.
 
 ## Tested
 
-Tested, not extensively.
+Tested.
 
 ## Use
 

@@ -25,7 +25,7 @@ A system-wide foreground-change event hook and a one-second timer run permanentl
 
 ## Tested
 
-Tested, not extensively; the pause was not measured in a game.
+Tested; the pause was not measured in a game.
 
 ## Use
 

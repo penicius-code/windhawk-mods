@@ -1,7 +1,7 @@
 # Thanos Close Animation
 
 A closing window turns into dust that drifts away, starting at the bottom-right corner. A Windhawk mod.
-Version 1.1.1 | Windhawk 1.7.3, Windows 11 (build 26100) | Status: installed on my PC, currently switched off; tested, not extensively
+Version 1.1.1 | Windhawk 1.7.3, Windows 11 (build 26100) | Status: installed on my PC, currently switched off; tested
 
 ## Whose code this is
 
@@ -53,7 +53,7 @@ In Windhawk choose "Create a New Mod", paste `thanos-close-animation.wh.cpp` and
 
 ## Tested
 
-Tested, not extensively. The fullscreen guard added in 1.1.1 was written after a code review.
+Tested. The fullscreen guard added in 1.1.1 was written after a code review.
 
 ## Known issues
 

@@ -25,7 +25,7 @@ A new thread with a system-wide foreground-change event hook and a one-second ti
 
 ## Tested
 
-Tested, not extensively; the pause was not measured in a game.
+Tested; the pause was not measured in a game.
 
 ## Use
 

@@ -1,7 +1,7 @@
 # Desktop Icon Opacity
 
 Semi-transparent desktop icons that return to full opacity under the mouse or when selected. A Windhawk mod.
-Version 1.0.0 | Windhawk 1.7.3, Windows 11 (build 26100) | Status: installed and enabled on my PC; tested, not extensively
+Version 1.0.0 | Windhawk 1.7.3, Windows 11 (build 26100) | Status: installed and enabled on my PC; tested
 
 ## Whose code this is
 
@@ -39,7 +39,7 @@ In Windhawk choose "Create a New Mod", paste `desktop-icon-opacity.wh.cpp` and c
 
 ## Tested
 
-In use on my PC at 50 %; tested, not extensively. Not checked: Windows 10, and whether every icon overlay is faded together with its icon.
+In use on my PC at 50 %; tested. Not checked: Windows 10, and whether every icon overlay is faded together with its icon.
 
 ## Known issues
 
